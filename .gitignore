@@ -1,0 +1,4 @@
+node_modules/
+.export-test/
+*.log
+.DS_Store
